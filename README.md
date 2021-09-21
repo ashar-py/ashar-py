@@ -6,6 +6,10 @@
 - 🔎 Currently working on my problem solving skills, and in-depth knowledge of Python.
 - 🎮 My hobbies include travelling, video-games, and code.
 --------------------------
+### POSITION OF RESPONSIBILITY
+- 📈 Member at **SDS**, BIT Mesra
+- 📊 AI/ML member at [GDSC, BIT Mesra]
+--------------------------
 ### Conect with me
 - [LinkedIn]
 - [HackerRank]
@@ -15,4 +19,5 @@
 [LinkedIn]: https://www.linkedin.com/in/ashar-shakil-710a1a205/
 [HackerRank]: https://www.hackerrank.com/as1400_py
 [Kaggle]: https://www.kaggle.com/asharshakil
+[GDSC, BIT Mesra]: https://gdsc.community.dev/birla-institute-of-technology-mesra-ranchi/
 
